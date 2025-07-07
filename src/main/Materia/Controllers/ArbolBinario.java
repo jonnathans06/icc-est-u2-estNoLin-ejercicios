@@ -12,7 +12,7 @@ public class ArbolBinario {
 
     /**
      * Inserta un valor en el árbol binario de búsqueda.
-     * 
+     *
      * @param value El valor a insertar en el árbol.
      */
     public void insert(int value) {
